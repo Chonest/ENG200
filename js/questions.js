@@ -737,7 +737,7 @@ let questions = [
   {
     numb: 69,
     question: "Employers discuss pay and benefits at which stage of the employment process?",
-    answer: "Negotiating",
+    answer: "Hiring",
     options: [
       "Hiring",
       "Interviewing",
@@ -1252,4 +1252,5 @@ let questions = [
       "title page."
     ]
   }
+
 ];
